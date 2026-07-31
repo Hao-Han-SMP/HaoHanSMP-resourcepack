@@ -4,7 +4,7 @@ Một resourcepack dành riêng cho server HaoHanSMP.
 
 ## Cách sử dụng
 
-> **Lưu ý:** Resource pack này được thiết kế cho **Minecraft Java Edition** với pack format **94.1** (tức là phiên bản 1.21.1).
+> **Lưu ý:** Resource pack này được thiết kế cho **Minecraft Java Edition** với pack format **94.1** (tức là phiên bản 1.21.11).
 
 1. Tải file `HaoHanSMP-resourcepack.zip` từ phần [Releases](../../releases) hoặc tự build theo [hướng dẫn ở dưới](#build--package).
 2. Mở Minecraft, vào **Options...** → **Resource Packs...**
