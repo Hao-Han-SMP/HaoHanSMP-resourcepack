@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "haohan:spacesuit"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "haohan:spacesuit"
+      }
+    ]
+  }
+}
