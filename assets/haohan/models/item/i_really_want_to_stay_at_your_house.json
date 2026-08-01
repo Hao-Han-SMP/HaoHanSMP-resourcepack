@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "haohan:item/i_really_want_to_stay_at_your_house"
+  }
+}

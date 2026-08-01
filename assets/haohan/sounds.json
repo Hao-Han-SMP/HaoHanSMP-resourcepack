@@ -1,0 +1,10 @@
+{
+  "music_disc.i_really_want_to_stay_at_your_house": {
+    "sounds": [
+      {
+        "name": "haohan:music/i_really_want_to_stay_at_your_house",
+        "stream": true
+      }
+    ]
+  }
+}
