@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/prismarine_shard"
+    },
+    "entries": [
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/mithril_shard"
+        }
+      }
+    ]
+  }
+}

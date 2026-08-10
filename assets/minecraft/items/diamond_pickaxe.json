@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_pickaxe"
+    },
+    "entries": [
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/soulsteel_pickaxe"
+        }
+      },
+      {
+        "threshold": 1019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/mithril_pickaxe"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/mithril_slag_pickaxe"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/soulsteel_slag_pickaxe"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/stone_pickaxe"
+    },
+    "entries": [
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/copper_slag_pickaxe"
+        }
+      }
+    ]
+  }
+}

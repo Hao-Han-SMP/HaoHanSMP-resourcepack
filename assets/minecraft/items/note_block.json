@@ -1,18 +1,94 @@
 {
   "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:block_state",
-    "block_state_property": "note",
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:block/note_block"
+      "type": "minecraft:select",
+      "property": "minecraft:block_state",
+      "block_state_property": "note",
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:block/note_block"
+      },
+      "cases": [
+        {
+          "when": "24",
+          "model": {
+            "type": "minecraft:model",
+            "model": "haohan:item/anorthosite_ore"
+          }
+        }
+      ]
     },
-    "cases": [
+    "entries": [
       {
-        "when": "24",
+        "threshold": 1031,
         "model": {
           "type": "minecraft:model",
-          "model": "haohan:item/anorthosite_ore"
+          "model": "haohan:item/borax_ore"
+        }
+      },
+      {
+        "threshold": 1031.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/note_block"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/mithril_ore"
+        }
+      },
+      {
+        "threshold": 1032.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/note_block"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/deepslate_borax_ore"
+        }
+      },
+      {
+        "threshold": 1033.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/note_block"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/deepslate_mithril_ore"
+        }
+      },
+      {
+        "threshold": 1034.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/note_block"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/charcoal_block"
+        }
+      },
+      {
+        "threshold": 1038.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/note_block"
         }
       }
     ]

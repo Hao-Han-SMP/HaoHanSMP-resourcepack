@@ -1,0 +1,18 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/brush" },
+    "entries": [
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "minecraft:model", "model": "haohan:item/bow_drill_igniting" },
+          "on_false": { "type": "minecraft:model", "model": "haohan:item/bow_drill" }
+        }
+      }
+    ]
+  }
+}

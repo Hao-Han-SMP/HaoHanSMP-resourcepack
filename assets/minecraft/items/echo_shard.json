@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/echo_shard"
+    },
+    "entries": [
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/soul_crystal"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/soulsteel_slag"
+        }
+      }
+    ]
+  }
+}

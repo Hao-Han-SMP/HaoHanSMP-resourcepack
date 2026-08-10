@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "haohan:block/mithril_ore",
+    "particle": "minecraft:block/stone"
+  }
+}

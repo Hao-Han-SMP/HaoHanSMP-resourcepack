@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": { "type": "minecraft:model", "model": "minecraft:block/deepslate" },
+    "entries": [
+      { "threshold": 1033, "model": { "type": "minecraft:model", "model": "haohan:item/deepslate_borax_ore" } },
+      { "threshold": 1034, "model": { "type": "minecraft:model", "model": "haohan:item/deepslate_mithril_ore" } }
+    ]
+  }
+}

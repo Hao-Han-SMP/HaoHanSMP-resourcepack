@@ -1,0 +1,180 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 900001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/previous_active"
+        }
+      },
+      {
+        "threshold": 900001.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/previous_disabled"
+        }
+      },
+      {
+        "threshold": 900002.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/next_active"
+        }
+      },
+      {
+        "threshold": 900003.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/next_disabled"
+        }
+      },
+      {
+        "threshold": 900004.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/recipe_arrow"
+        }
+      },
+      {
+        "threshold": 900005.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/close"
+        }
+      },
+      {
+        "threshold": 900006.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/info"
+        }
+      },
+      {
+        "threshold": 900007.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/confirm"
+        }
+      },
+      {
+        "threshold": 900008.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/cancel"
+        }
+      },
+      {
+        "threshold": 900009.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/back"
+        }
+      },
+      {
+        "threshold": 900010.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/refresh"
+        }
+      },
+      {
+        "threshold": 900011.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/search"
+        }
+      },
+      {
+        "threshold": 900012.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      }
+    ]
+  }
+}

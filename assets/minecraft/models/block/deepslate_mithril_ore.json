@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "haohan:block/deepslate_mithril_ore",
+    "particle": "minecraft:block/deepslate"
+  }
+}

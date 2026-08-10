@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": { "type": "minecraft:model", "model": "minecraft:block/stone" },
+    "entries": [
+      { "threshold": 1031, "model": { "type": "minecraft:model", "model": "haohan:item/borax_ore" } },
+      { "threshold": 1032, "model": { "type": "minecraft:model", "model": "haohan:item/mithril_ore" } }
+    ]
+  }
+}

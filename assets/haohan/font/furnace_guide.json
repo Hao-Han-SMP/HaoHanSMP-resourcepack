@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "haohan:font/furnace_guide_panel.png",
+      "ascent": 64,
+      "height": 128,
+      "chars": ["\uE200"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/furnace_guide_items.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uE201\uE202\uE203\uE204\uE205\uE206\uE207\uE208\uE209\uE20A\uE20B\uE20C\uE20D\uE20E\uE20F\uE210\uE211\uE212\uE213\uE214\uE215\uE216\uE217\uE218\uE219\uE21A\uE21B\uE21C\uE21D\uE21E\uE21F"]
+    }
+  ]
+}
