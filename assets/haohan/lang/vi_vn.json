@@ -136,5 +136,19 @@
   "ui.haohan.forge_guide.button.temperature": "Cách chỉnh nhiệt độ",
   "ui.haohan.forge_guide.button.fuels": "Tổ hợp chất đốt",
   "ui.haohan.forge_guide.button.previous": "Trang trước",
-  "ui.haohan.forge_guide.button.next": "Trang sau"
+  "ui.haohan.forge_guide.button.next": "Trang sau",
+  "item.haohan.raw_ilmenite": "Ilmenite thô",
+  "item.haohan.raw_ilmenite.description.1": "Quặng Ilmenite thô khai thác từ đất đá mặt trăng.",
+  "item.haohan.ilmenite_ore": "Quặng Ilmenite",
+  "item.haohan.ilmenite_ore.description.1": "Quặng mặt trăng giàu titan và sắt.",
+  "item.haohan.raw_pyroxene": "Pyroxene thô",
+  "item.haohan.raw_pyroxene.description.1": "Tinh thể Pyroxene thô khai thác từ đất đá mặt trăng.",
+  "item.haohan.pyroxene_ore": "Quặng Pyroxene",
+  "item.haohan.pyroxene_ore.description.1": "Quặng mặt trăng giàu pyroxene và khoáng vật silicat.",
+  "item.haohan.pyroxene_debris": "Mảnh vụn Pyroxene",
+  "item.haohan.pyroxene_debris.description.1": "Mảnh tinh thể pyroxene đặc quánh từ sâu trong lớp vỏ mặt trăng.",
+  "item.haohan.kreep_dust": "Bụi KREEP",
+  "item.haohan.kreep_dust.description.1": "Bụi giàu kali, nguyên tố đất hiếm và phốt pho.",
+  "item.haohan.kreep_basalt": "Đá bazan KREEP",
+  "item.haohan.kreep_basalt.description.1": "Đá bazan mặt trăng chứa hàm lượng khoáng vật KREEP phong phú."
 }

@@ -12,6 +12,27 @@
       },
       "cases": [
         {
+          "when": "21",
+          "model": {
+            "type": "minecraft:model",
+            "model": "haohan:item/kreep_basalt"
+          }
+        },
+        {
+          "when": "22",
+          "model": {
+            "type": "minecraft:model",
+            "model": "haohan:item/pyroxene_ore"
+          }
+        },
+        {
+          "when": "23",
+          "model": {
+            "type": "minecraft:model",
+            "model": "haohan:item/ilmenite_ore"
+          }
+        },
+        {
           "when": "24",
           "model": {
             "type": "minecraft:model",

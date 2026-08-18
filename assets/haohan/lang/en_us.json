@@ -136,5 +136,19 @@
   "ui.haohan.forge_guide.button.temperature": "Temperature guide",
   "ui.haohan.forge_guide.button.fuels": "Fuel combinations",
   "ui.haohan.forge_guide.button.previous": "Previous page",
-  "ui.haohan.forge_guide.button.next": "Next page"
+  "ui.haohan.forge_guide.button.next": "Next page",
+  "item.haohan.raw_ilmenite": "Raw Ilmenite",
+  "item.haohan.raw_ilmenite.description.1": "Raw Ilmenite extracted from lunar rocks.",
+  "item.haohan.ilmenite_ore": "Ilmenite Ore",
+  "item.haohan.ilmenite_ore.description.1": "Lunar ore containing rich titanium and iron.",
+  "item.haohan.raw_pyroxene": "Raw Pyroxene",
+  "item.haohan.raw_pyroxene.description.1": "Raw Pyroxene crystals extracted from lunar rocks.",
+  "item.haohan.pyroxene_ore": "Pyroxene Ore",
+  "item.haohan.pyroxene_ore.description.1": "Lunar ore containing rich pyroxene and silicate minerals.",
+  "item.haohan.pyroxene_debris": "Pyroxene Debris",
+  "item.haohan.pyroxene_debris.description.1": "Dense fragmented pyroxene crystal scrap from deep lunar crust.",
+  "item.haohan.kreep_dust": "KREEP Dust",
+  "item.haohan.kreep_dust.description.1": "Dust rich in potassium, rare-earth elements, and phosphorus.",
+  "item.haohan.kreep_basalt": "KREEP Basalt",
+  "item.haohan.kreep_basalt.description.1": "Lunar basalt rock enriched with incompatible elements."
 }

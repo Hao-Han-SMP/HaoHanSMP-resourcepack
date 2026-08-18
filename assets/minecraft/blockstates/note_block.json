@@ -2377,22 +2377,22 @@
       "model": "minecraft:block/note_block"
     },
     "instrument=pling,note=21,powered=false": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/kreep_basalt"
     },
     "instrument=pling,note=21,powered=true": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/kreep_basalt"
     },
     "instrument=pling,note=22,powered=false": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/pyroxene_ore"
     },
     "instrument=pling,note=22,powered=true": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/pyroxene_ore"
     },
     "instrument=pling,note=23,powered=false": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/ilmenite_ore"
     },
     "instrument=pling,note=23,powered=true": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/ilmenite_ore"
     },
     "instrument=pling,note=24,powered=false": {
       "model": "haohan:block/anorthosite_ore"

@@ -1,4 +1,11 @@
 {
   "block.minecraft.test_block": "Anorthosite Ore",
-  "item.haohan.raw_anorthosite": "Raw Anorthosite"
+  "item.haohan.raw_anorthosite": "Raw Anorthosite",
+  "item.haohan.raw_ilmenite": "Raw Ilmenite",
+  "item.haohan.ilmenite_ore": "Ilmenite Ore",
+  "item.haohan.raw_pyroxene": "Raw Pyroxene",
+  "item.haohan.pyroxene_ore": "Pyroxene Ore",
+  "item.haohan.pyroxene_debris": "Pyroxene Debris",
+  "item.haohan.kreep_dust": "KREEP Dust",
+  "item.haohan.kreep_basalt": "KREEP Basalt"
 }
