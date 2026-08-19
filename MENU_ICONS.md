@@ -1,6 +1,6 @@
 # HaoHan menu icons
 
-All menu controls use `minecraft:paper` with the following `CustomModelData` values.
+All menu controls use `minecraft:paper` with the following `CustomModelData` values. The 12 icons are redrawn as 16×16 pixel-art tiles in `assets/haohan/textures/item/menu/menu_atlas.png` (4 columns × 3 rows); each model selects its tile with atlas UV coordinates.
 
 | CMD | Texture | Intended use |
 | --- | --- | --- |

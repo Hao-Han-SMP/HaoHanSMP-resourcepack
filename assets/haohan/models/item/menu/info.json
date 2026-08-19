@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "haohan:item/menu/info"
+    "layer0": "haohan:item/menu/icons/info"
   }
 }

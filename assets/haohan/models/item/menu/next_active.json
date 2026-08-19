@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "haohan:item/menu/next_active"
+    "layer0": "haohan:item/menu/icons/next_active"
   }
 }

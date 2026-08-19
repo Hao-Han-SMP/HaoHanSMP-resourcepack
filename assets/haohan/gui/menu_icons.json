@@ -1,0 +1,15 @@
+{
+  "atlas": "haohan:item/menu/menu_atlas",
+  "width": 48,
+  "height": 32,
+  "regions": {
+    "previous_active": { "x": 0, "y": 0, "width": 16, "height": 16 },
+    "previous_disabled": { "x": 32, "y": 0, "width": 16, "height": 16 },
+    "next_active": { "x": 0, "y": 0, "width": 16, "height": 16, "flipX": true },
+    "next_disabled": { "x": 32, "y": 0, "width": 16, "height": 16, "flipX": true },
+    "recipe_arrow": { "x": 16, "y": 0, "width": 16, "height": 16 },
+    "close": { "x": 0, "y": 16, "width": 16, "height": 16 },
+    "info": { "x": 16, "y": 16, "width": 16, "height": 16 },
+    "back": { "x": 0, "y": 0, "width": 16, "height": 16 }
+  }
+}
