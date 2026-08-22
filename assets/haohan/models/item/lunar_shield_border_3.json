@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "haohan:item/lunar_shield_border_3" }
+}

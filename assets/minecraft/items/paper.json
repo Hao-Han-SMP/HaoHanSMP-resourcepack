@@ -160,6 +160,48 @@
           "type": "minecraft:model",
           "model": "haohan:item/flash_white_alpha_5"
         }
+      },
+      {
+        "threshold": 910006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_0"
+        }
+      },
+      {
+        "threshold": 910007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_1"
+        }
+      },
+      {
+        "threshold": 910008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_2"
+        }
+      },
+      {
+        "threshold": 910009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_3"
+        }
+      },
+      {
+        "threshold": 910010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_4"
+        }
+      },
+      {
+        "threshold": 910011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_border_5"
+        }
       }
     ]
   }
