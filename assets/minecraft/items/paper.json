@@ -202,6 +202,13 @@
           "type": "minecraft:model",
           "model": "haohan:item/lunar_shield_border_5"
         }
+      },
+      {
+        "threshold": 910012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/lunar_shield_triangle_0"
+        }
       }
     ]
   }
