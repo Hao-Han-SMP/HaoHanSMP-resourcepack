@@ -1,4 +1,10 @@
 {
+  "backpack.open": {
+    "sounds": [{ "name": "haohan:gear/backpack/open" }]
+  },
+  "backpack.close": {
+    "sounds": [{ "name": "haohan:gear/backpack/close" }]
+  },
   "music_disc.i_really_want_to_stay_at_your_house": {
     "sounds": [
       {

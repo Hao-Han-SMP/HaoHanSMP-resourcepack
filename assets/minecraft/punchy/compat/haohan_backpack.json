@@ -1,0 +1,36 @@
+{
+  "itemSpecific": {
+    "minecraft:brown_dye": {
+      "kind": "LANTERN",
+      "armKind": "LANTERN",
+      "transforms": {
+        "right": {
+          "physics": {
+            "name": "FORWARD_PENDULUM",
+            "limitDeg": 8.0,
+            "force": 0.65,
+            "speed": 0.75,
+            "cameraSens": 0.35,
+            "motionSens": 0.35,
+            "gravity": 0.9,
+            "handSpace": true,
+            "enableCreaturePhysics": false
+          }
+        },
+        "left": {
+          "physics": {
+            "name": "FORWARD_PENDULUM",
+            "limitDeg": 8.0,
+            "force": 0.65,
+            "speed": 0.75,
+            "cameraSens": 0.35,
+            "motionSens": 0.35,
+            "gravity": 0.9,
+            "handSpace": true,
+            "enableCreaturePhysics": false
+          }
+        }
+      }
+    }
+  }
+}

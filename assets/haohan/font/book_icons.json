@@ -1,0 +1,158 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/mud_bricks.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE230"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/cobblestone.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE231"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/blast_furnace_front.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE232"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/cauldron_side.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE233"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:block/borax_ore.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE234"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:block/mithril_ore.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE235"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:block/ilmenite_ore.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE236"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:block/pyroxene_ore.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE237"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/raw_copper.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE240"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/copper_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE241"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/raw_iron.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE242"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/iron_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE243"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/raw_gold.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE244"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/gold_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE245"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/borax_powder.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE246"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/embersteel_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE247"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/diamond.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE248"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/mithril_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE249"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/soul_soil.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE24A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/soulsteel_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE24B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/netherite_scrap.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE24C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/netherite_ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE24D"]
+    }
+  ]
+}

@@ -3415,10 +3415,10 @@
       "model": "minecraft:block/note_block"
     },
     "instrument=custom_head,note=19,powered=false": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/backpack"
     },
     "instrument=custom_head,note=19,powered=true": {
-      "model": "minecraft:block/note_block"
+      "model": "haohan:block/backpack"
     },
     "instrument=custom_head,note=20,powered=false": {
       "model": "haohan:block/borax_ore"

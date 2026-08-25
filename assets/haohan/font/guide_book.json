@@ -1,0 +1,39 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "haohan:font/book_rule.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE270"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/metallurgy_title.png",
+      "ascent": 0,
+      "height": 38,
+      "chars": ["\uE260"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/guide_book_materials_book.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": ["\uE220"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/guide_book_structure_book.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": ["\uE221"]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/flash_white_alpha_5.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": ["\uE222"]
+    }
+  ]
+}
