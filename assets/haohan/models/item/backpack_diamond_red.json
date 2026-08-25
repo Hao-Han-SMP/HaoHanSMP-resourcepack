@@ -1,0 +1,8 @@
+{
+  "parent": "haohan:item/backpack",
+  "textures": {
+    "base": "haohan:block/backpack_base_red",
+    "strap": "haohan:block/backpack_strap_diamond",
+    "particle": "haohan:block/backpack_base_red"
+  }
+}
