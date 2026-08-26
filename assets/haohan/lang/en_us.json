@@ -150,5 +150,7 @@
   "item.haohan.kreep_dust": "KREEP Dust",
   "item.haohan.kreep_dust.description.1": "Dust rich in potassium, rare-earth elements, and phosphorus.",
   "item.haohan.kreep_basalt": "KREEP Basalt",
-  "item.haohan.kreep_basalt.description.1": "Lunar basalt rock enriched with incompatible elements."
+  "item.haohan.kreep_basalt.description.1": "Lunar basalt rock enriched with incompatible elements.",
+  "item.haohan.telescope_lens": "Telescope Lens",
+  "item.haohan.telescope_lens.description.1": "Precision optical lens module used for telescopes."
 }

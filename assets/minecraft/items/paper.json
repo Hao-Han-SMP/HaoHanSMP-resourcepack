@@ -8,6 +8,20 @@
     },
     "entries": [
       {
+        "threshold": 3008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/telescope_lens"
+        }
+      },
+      {
+        "threshold": 3008.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
         "threshold": 900001,
         "model": {
           "type": "minecraft:model",
