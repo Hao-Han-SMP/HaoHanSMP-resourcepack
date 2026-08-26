@@ -1,8 +1,40 @@
 {
   "parent": "minecraft:item/generated",
-  "textures": { "layer0": "haohan:item/menu/menu_atlas" },
-  "elements": [{ "from": [0, 0, 0], "to": [16, 16, 0.1], "faces": {
-    "north": { "uv": [5.333333, 0, 10.666667, 8], "texture": "#layer0" },
-    "south": { "uv": [5.333333, 0, 10.666667, 8], "texture": "#layer0" }
-  }}]
+  "textures": {
+    "layer0": "haohan:item/menu/menu_atlas"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#layer0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#layer0"
+        }
+      }
+    }
+  ]
 }

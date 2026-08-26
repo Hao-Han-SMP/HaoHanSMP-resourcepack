@@ -134,6 +134,90 @@
         }
       },
       {
+        "threshold": 900020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/temp_cold"
+        }
+      },
+      {
+        "threshold": 900020.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/temp_warm"
+        }
+      },
+      {
+        "threshold": 900021.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/temp_hot"
+        }
+      },
+      {
+        "threshold": 900022.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/progress_idle"
+        }
+      },
+      {
+        "threshold": 900023.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/progress_working"
+        }
+      },
+      {
+        "threshold": 900024.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 900025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "haohan:item/menu/progress_paused"
+        }
+      },
+      {
+        "threshold": 900025.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
         "threshold": 910000,
         "model": {
           "type": "minecraft:model",

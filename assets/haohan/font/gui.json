@@ -68,6 +68,132 @@
       "chars": [
         "\ue107"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue111"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_jukebox.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue113"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_jukebox.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue114"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_jukebox.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue115"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue117"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_furnace.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue123"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_furnace.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue124"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_furnace.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue125"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_furnace.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue127"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue133"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue134"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue135"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue137"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/forge_gui.png",
+      "ascent": 13,
+      "height": 167,
+      "chars": [
+        "\ue150"
+      ]
     }
   ]
 }

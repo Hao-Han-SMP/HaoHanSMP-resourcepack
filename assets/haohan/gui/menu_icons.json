@@ -1,15 +1,93 @@
 {
   "atlas": "haohan:item/menu/menu_atlas",
-  "width": 48,
-  "height": 32,
+  "width": 64,
+  "height": 64,
   "regions": {
-    "previous_active": { "x": 0, "y": 0, "width": 16, "height": 16 },
-    "previous_disabled": { "x": 32, "y": 0, "width": 16, "height": 16 },
-    "next_active": { "x": 0, "y": 0, "width": 16, "height": 16, "flipX": true },
-    "next_disabled": { "x": 32, "y": 0, "width": 16, "height": 16, "flipX": true },
-    "recipe_arrow": { "x": 16, "y": 0, "width": 16, "height": 16 },
-    "close": { "x": 0, "y": 16, "width": 16, "height": 16 },
-    "info": { "x": 16, "y": 16, "width": 16, "height": 16 },
-    "back": { "x": 0, "y": 0, "width": 16, "height": 16 }
+    "previous_active": {
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 16
+    },
+    "previous_disabled": {
+      "x": 32,
+      "y": 0,
+      "width": 16,
+      "height": 16
+    },
+    "next_active": {
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 16,
+      "flipX": true
+    },
+    "next_disabled": {
+      "x": 32,
+      "y": 0,
+      "width": 16,
+      "height": 16,
+      "flipX": true
+    },
+    "recipe_arrow": {
+      "x": 16,
+      "y": 0,
+      "width": 16,
+      "height": 16
+    },
+    "close": {
+      "x": 0,
+      "y": 16,
+      "width": 16,
+      "height": 16
+    },
+    "info": {
+      "x": 16,
+      "y": 16,
+      "width": 16,
+      "height": 16
+    },
+    "back": {
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 16
+    },
+    "temp_cold": {
+      "x": 32,
+      "y": 16,
+      "width": 16,
+      "height": 16
+    },
+    "temp_warm": {
+      "x": 48,
+      "y": 16,
+      "width": 16,
+      "height": 16
+    },
+    "temp_hot": {
+      "x": 0,
+      "y": 32,
+      "width": 16,
+      "height": 16
+    },
+    "progress_idle": {
+      "x": 16,
+      "y": 32,
+      "width": 16,
+      "height": 16
+    },
+    "progress_working": {
+      "x": 32,
+      "y": 32,
+      "width": 16,
+      "height": 16
+    },
+    "progress_paused": {
+      "x": 48,
+      "y": 32,
+      "width": 16,
+      "height": 16
+    }
   }
 }

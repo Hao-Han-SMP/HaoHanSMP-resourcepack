@@ -1,5 +1,23 @@
 {
   "block.note_block.pling": {
     "sounds": []
+  },
+  "music_disc.i_really_want_to_stay_at_your_house": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "haohan:music/i_really_want_to_stay_at_your_house",
+        "stream": true
+      }
+    ]
+  },
+  "i_really_want_to_stay_at_your_house": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "haohan:music/i_really_want_to_stay_at_your_house",
+        "stream": true
+      }
+    ]
   }
 }
