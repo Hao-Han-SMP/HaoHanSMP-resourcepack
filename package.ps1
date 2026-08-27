@@ -1,4 +1,4 @@
-$DirName = Split-Path -Leaf $PWD
+﻿$DirName = Split-Path -Leaf $PWD
 $OutputDir = "out"
 
 if (!(Test-Path $OutputDir)) {
@@ -13,6 +13,7 @@ if (Test-Path $OutputName) {
 
 $FilesToZip = @()
 if (Test-Path "assets") { $FilesToZip += "assets" }
+Get-ChildItem -Directory -Filter "modelengine_*" | ForEach-Object { $FilesToZip += $_.Name }
 if (Test-Path "pack.mcmeta") { $FilesToZip += "pack.mcmeta" }
 if (Test-Path "pack.png") { $FilesToZip += "pack.png" }
 if (Test-Path "LICENSE") { $FilesToZip += "LICENSE" }

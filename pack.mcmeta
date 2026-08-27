@@ -1,7 +1,76 @@
-{
-    "pack": {
-        "min_format": 75,
-        "max_format": 75,
-        "description": "HaoHanSMP Resource Pack"
-    }
+﻿{
+    "overlays":  {
+                     "entries":  [
+                                     {
+                                         "max_format":  36,
+                                         "min_format":  15,
+                                         "directory":  "modelengine_1_19_4",
+                                         "formats":  {
+                                                         "min_inclusive":  15,
+                                                         "max_inclusive":  36
+                                                     }
+                                     },
+                                     {
+                                         "max_format":  32767,
+                                         "min_format":  36,
+                                         "directory":  "modelengine_1_21_2",
+                                         "formats":  {
+                                                         "min_inclusive":  36,
+                                                         "max_inclusive":  32767
+                                                     }
+                                     },
+                                     {
+                                         "max_format":  32767,
+                                         "min_format":  55,
+                                         "directory":  "modelengine_1_21_5",
+                                         "formats":  {
+                                                         "min_inclusive":  55,
+                                                         "max_inclusive":  32767
+                                                     }
+                                     },
+                                     {
+                                         "max_format":  32767,
+                                         "min_format":  63,
+                                         "directory":  "modelengine_1_21_6",
+                                         "formats":  {
+                                                         "min_inclusive":  63,
+                                                         "max_inclusive":  32767
+                                                     }
+                                     },
+                                     {
+                                         "max_format":  32767,
+                                         "min_format":  84,
+                                         "directory":  "modelengine_26_1",
+                                         "formats":  {
+                                                         "min_inclusive":  84,
+                                                         "max_inclusive":  32767
+                                                     }
+                                     },
+                                     {
+                                         "max_format":  32767,
+                                         "min_format":  88,
+                                         "directory":  "modelengine_26_2",
+                                         "formats":  {
+                                                         "min_inclusive":  88,
+                                                         "max_inclusive":  32767
+                                                     }
+                                     }
+                                 ]
+                 },
+    "pack":  {
+                 "max_format":  32767,
+                 "min_format":  15,
+                 "pack_format":  15,
+                 "description":  "HaoHanSMP Resource Pack",
+                 "supported_formats":  [
+                                           15,
+                                           32767
+                                       ]
+             },
+    "sodium":  {
+                   "ignored_shaders":  [
+                                           "rendertype_entity_translucent.fsh",
+                                           "rendertype_entity_translucent.vsh"
+                                       ]
+               }
 }
