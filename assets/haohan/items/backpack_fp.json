@@ -1,1 +1,6 @@
-{"model":{"type":"model","model":"haohan:item/backpack_fp"}}
+{
+  "model": {
+    "type": "model",
+    "model": "haohan:item/backpack_fp"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue3f0": -210,
+        "\ue3f1": -105,
+        "\ue3f2": -64,
+        "\ue3f3": -32,
+        "\ue3f4": -16,
+        "\ue3f5": -8,
+        "\ue3f6": -4,
+        "\ue3f7": -2,
+        "\ue3f8": -1,
+        "\ue3f9": 1,
+        "\ue3fa": 2,
+        "\ue3fb": 4,
+        "\ue3fc": 8,
+        "\ue3fd": 16,
+        "\ue3fe": 32,
+        "\ue3ff": 64,
+        "\ue3ee": 105,
+        "\ue3ef": 210
+      }
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue100": -8
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_1.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        "\ue102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_5.png",
+      "ascent": 13,
+      "height": 204,
+      "chars": [
+        "\ue106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue111"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_jukebox.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue113"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_jukebox.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue114"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_jukebox.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue115"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue117"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_furnace.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue123"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_furnace.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue124"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_furnace.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue125"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_furnace.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue127"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_2_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 150,
+      "chars": [
+        "\ue133"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_3_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 168,
+      "chars": [
+        "\ue134"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_4_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 186,
+      "chars": [
+        "\ue135"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/backpack_6_furnace_jukebox.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue137"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/forge_gui.png",
+      "ascent": 13,
+      "height": 167,
+      "chars": [
+        "\ue150"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/book_rule.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue270"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/metallurgy_title.png",
+      "ascent": 0,
+      "height": 38,
+      "chars": [
+        "\ue260"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/guide_book_materials_book.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": [
+        "\ue220"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:font/guide_book_structure_book.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": [
+        "\ue221"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:item/flash_white_alpha_5.png",
+      "ascent": 0,
+      "height": 100,
+      "chars": [
+        "\ue222"
+      ]
+    }
+  ]
+}

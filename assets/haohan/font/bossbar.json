@@ -1,0 +1,7416 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue3f0": -210,
+        "\ue3f1": -105,
+        "\ue3f2": -64,
+        "\ue3f3": -32,
+        "\ue3f4": -16,
+        "\ue3f5": -8,
+        "\ue3f6": -4,
+        "\ue3f7": -2,
+        "\ue3f8": -1,
+        "\ue3f9": 1,
+        "\ue3fa": 2,
+        "\ue3fb": 4,
+        "\ue3fc": 8,
+        "\ue3fd": 16,
+        "\ue3fe": 32,
+        "\ue3ff": 64,
+        "\ue3ee": 105,
+        "\ue3ef": 210
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_frame.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue300"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue400"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue401"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue402"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue403"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue404"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue405"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue406"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_0_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue407"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue408"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue409"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_1_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue40f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue410"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue411"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue412"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue413"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue414"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue415"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue416"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_2_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue417"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue418"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue419"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_3_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue41f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue420"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue421"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue422"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue423"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue424"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue425"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue426"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_4_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue427"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue428"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue429"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_5_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue42f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue430"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue431"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue432"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue433"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue434"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue435"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue436"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_6_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue437"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue438"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue439"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_7_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue43f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue440"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue441"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue442"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue443"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue444"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue445"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue446"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_8_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue447"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue448"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue449"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_9_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue44f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue450"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue451"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue452"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue453"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue454"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue455"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue456"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_10_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue457"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue458"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue459"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_11_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue45f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue460"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue461"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue462"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue463"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue464"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue465"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue466"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_12_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue467"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue468"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue469"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_13_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue46f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue470"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue471"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue472"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue473"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue474"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue475"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue476"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_14_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue477"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue478"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue479"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_15_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue47f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue480"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue481"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue482"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue483"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue484"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue485"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue486"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_16_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue487"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue488"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue489"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_17_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue48f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue490"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue491"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue492"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue493"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue494"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue495"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue496"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_18_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue497"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue498"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue499"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_19_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue49f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_20_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_21_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_22_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_23_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_24_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_25_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_26_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_27_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_28_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_29_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_30_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_31_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue4ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue500"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue501"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue502"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue503"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue504"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue505"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue506"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_32_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue507"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue508"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue509"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_33_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue50f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue510"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue511"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue512"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue513"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue514"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue515"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue516"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_34_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue517"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue518"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue519"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_35_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue51f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue520"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue521"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue522"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue523"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue524"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue525"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue526"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_36_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue527"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue528"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue529"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_37_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue52f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue530"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue531"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue532"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue533"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue534"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue535"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue536"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_38_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue537"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue538"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue539"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_39_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue53f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue540"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue541"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue542"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue543"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue544"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue545"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue546"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_40_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue547"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue548"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue549"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_41_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue54f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue550"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue551"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue552"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue553"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue554"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue555"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue556"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_42_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue557"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue558"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue559"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_43_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue55f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue560"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue561"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue562"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue563"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue564"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue565"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue566"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_44_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue567"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue568"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue569"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_45_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue56f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue570"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue571"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue572"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue573"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue574"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue575"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue576"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_46_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue577"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue578"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue579"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_47_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue57f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue580"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue581"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue582"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue583"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue584"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue585"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue586"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_48_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue587"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue588"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue589"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_49_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue58f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue590"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue591"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue592"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue593"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue594"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue595"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue596"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_50_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue597"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue598"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue599"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_51_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue59f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_52_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_53_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_54_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_55_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_56_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_57_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_58_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_59_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_60_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_61_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_62_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_63_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue5ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue600"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue601"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue602"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue603"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue604"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue605"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue606"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_64_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue607"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue608"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue609"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_65_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue60f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue610"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue611"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue612"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue613"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue614"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue615"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue616"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_66_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue617"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue618"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue619"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_67_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue61f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue620"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue621"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue622"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue623"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue624"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue625"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue626"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_68_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue627"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue628"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue629"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_69_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue62f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue630"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue631"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue632"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue633"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue634"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue635"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue636"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_70_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue637"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue638"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue639"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_71_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue63f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue640"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue641"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue642"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue643"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue644"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue645"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue646"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_72_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue647"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue648"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue649"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_73_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue64f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue650"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue651"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue652"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue653"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue654"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue655"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue656"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_74_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue657"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue658"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue659"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_75_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue65f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue660"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue661"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue662"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue663"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue664"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue665"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue666"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_76_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue667"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue668"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue669"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_77_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue66f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue670"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue671"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue672"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue673"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue674"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue675"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue676"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_78_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue677"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue678"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue679"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_79_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue67f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue680"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue681"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue682"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue683"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue684"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue685"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue686"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_80_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue687"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue688"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue689"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_81_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue68f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue690"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue691"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue692"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue693"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue694"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue695"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue696"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_82_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue697"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue698"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue699"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_83_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue69f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_84_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_85_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_86_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_87_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_88_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_89_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_90_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_91_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_92_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_93_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_94_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_95_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue6ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue700"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue701"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue702"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue703"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue704"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue705"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue706"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_96_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue707"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue708"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue709"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_97_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue70f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue710"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue711"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue712"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue713"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue714"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue715"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue716"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_98_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue717"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue718"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue719"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_99_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue71f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue720"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue721"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue722"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue723"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue724"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue725"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue726"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_fill_100_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue727"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_0.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue800"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_1.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue801"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_2.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue802"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_3.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue803"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_4.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue804"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_5.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue805"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_6.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue806"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_7.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue807"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_8.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue808"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_9.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue809"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_10.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue80a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/bossbar/bossbar_shatter_11.png",
+      "ascent": 22,
+      "height": 70,
+      "chars": [
+        "\ue80b"
+      ]
+    }
+  ]
+}

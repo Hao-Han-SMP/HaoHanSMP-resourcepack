@@ -5,154 +5,198 @@
       "file": "minecraft:block/mud_bricks.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE230"]
+      "chars": [
+        "\ue230"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:block/cobblestone.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE231"]
+      "chars": [
+        "\ue231"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:block/blast_furnace_front.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE232"]
+      "chars": [
+        "\ue232"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:block/cauldron_side.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE233"]
+      "chars": [
+        "\ue233"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:block/borax_ore.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE234"]
+      "chars": [
+        "\ue234"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:block/mithril_ore.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE235"]
+      "chars": [
+        "\ue235"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:block/ilmenite_ore.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE236"]
+      "chars": [
+        "\ue236"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:block/pyroxene_ore.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE237"]
+      "chars": [
+        "\ue237"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/raw_copper.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE240"]
+      "chars": [
+        "\ue240"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/copper_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE241"]
+      "chars": [
+        "\ue241"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/raw_iron.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE242"]
+      "chars": [
+        "\ue242"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/iron_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE243"]
+      "chars": [
+        "\ue243"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/raw_gold.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE244"]
+      "chars": [
+        "\ue244"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/gold_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE245"]
+      "chars": [
+        "\ue245"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:item/borax_powder.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE246"]
+      "chars": [
+        "\ue246"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:item/embersteel_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE247"]
+      "chars": [
+        "\ue247"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/diamond.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE248"]
+      "chars": [
+        "\ue248"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:item/mithril_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE249"]
+      "chars": [
+        "\ue249"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:block/soul_soil.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE24A"]
+      "chars": [
+        "\ue24a"
+      ]
     },
     {
       "type": "bitmap",
       "file": "haohan:item/soulsteel_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE24B"]
+      "chars": [
+        "\ue24b"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/netherite_scrap.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE24C"]
+      "chars": [
+        "\ue24c"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:item/netherite_ingot.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE24D"]
+      "chars": [
+        "\ue24d"
+      ]
     }
   ]
 }
