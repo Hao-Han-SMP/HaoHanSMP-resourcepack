@@ -1,1 +1,52 @@
-{"sources":[{"source":"entity/models","prefix":"entity/models/","type":"directory"},{"pattern":{"namespace":"minecraft","path":"entity/fishing_hook"},"type":"filter"}]}
+{
+    "sources": [
+        {
+            "source": "entity/models",
+            "prefix": "entity/models/",
+            "type": "directory"
+        },
+        {
+            "pattern": {
+                "namespace": "minecraft",
+                "path": "entity/fishing_hook"
+            },
+            "type": "filter"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_1"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_2"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_3"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_4"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_5"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_6"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_7"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_8"
+        },
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_9"
+        }
+    ]
+}
