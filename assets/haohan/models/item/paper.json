@@ -1,0 +1,1100 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "minecraft:mob/allay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "minecraft:mob/armor_creeper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "minecraft:mob/armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "minecraft:mob/armor_wither"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "minecraft:mob/axolotl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "minecraft:mob/banner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "minecraft:mob/bat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "minecraft:mob/bed_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "minecraft:mob/bed_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "minecraft:mob/bee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "minecraft:mob/bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "minecraft:mob/blaze"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "minecraft:mob/boat_acacia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "minecraft:mob/boat_birch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "minecraft:mob/boat_dark_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "minecraft:mob/boat_jungle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "minecraft:mob/boat_mangrove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "minecraft:mob/boat_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "minecraft:mob/boat_spruce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "minecraft:mob/book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "minecraft:mob/cage_conduit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "minecraft:mob/cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "minecraft:mob/cave_spider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "minecraft:mob/chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "minecraft:mob/chest_boat_acacia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "minecraft:mob/chest_boat_birch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "minecraft:mob/chest_boat_dark_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "minecraft:mob/chest_boat_jungle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "minecraft:mob/chest_boat_mangrove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "minecraft:mob/chest_boat_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "minecraft:mob/chest_boat_spruce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "minecraft:mob/chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "minecraft:mob/chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "minecraft:mob/cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "minecraft:mob/collar_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "minecraft:mob/command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "minecraft:mob/cow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "minecraft:mob/creeper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "minecraft:mob/creeper_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "minecraft:mob/decor_llama"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "minecraft:mob/dolphin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "minecraft:mob/donkey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "minecraft:mob/double_chest_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "minecraft:mob/double_chest_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "minecraft:mob/dragon_skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "minecraft:mob/drowned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "minecraft:mob/elder_guardian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "minecraft:mob/elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "minecraft:mob/end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "minecraft:mob/ender_dragon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "minecraft:mob/enderman"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "minecraft:mob/endermite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "minecraft:mob/evoker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "minecraft:mob/evoker_fangs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "minecraft:mob/eye_conduit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "minecraft:mob/fox"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "minecraft:mob/frog"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "minecraft:mob/fur_sheep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "minecraft:mob/furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "minecraft:mob/ghast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "minecraft:mob/giant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "minecraft:mob/glow_squid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "minecraft:mob/goat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "minecraft:mob/guardian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "minecraft:mob/hoglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "minecraft:mob/hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10067
+      },
+      "model": "minecraft:mob/horse"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10068
+      },
+      "model": "minecraft:mob/horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10069
+      },
+      "model": "minecraft:mob/husk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10070
+      },
+      "model": "minecraft:mob/illusioner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10071
+      },
+      "model": "minecraft:mob/inner_armor_armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10072
+      },
+      "model": "minecraft:mob/inner_armor_drowned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10073
+      },
+      "model": "minecraft:mob/inner_armor_giant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10074
+      },
+      "model": "minecraft:mob/inner_armor_husk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10075
+      },
+      "model": "minecraft:mob/inner_armor_piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10076
+      },
+      "model": "minecraft:mob/inner_armor_piglin_brute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10077
+      },
+      "model": "minecraft:mob/inner_armor_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10078
+      },
+      "model": "minecraft:mob/inner_armor_player_slim"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10079
+      },
+      "model": "minecraft:mob/inner_armor_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10080
+      },
+      "model": "minecraft:mob/inner_armor_stray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10081
+      },
+      "model": "minecraft:mob/inner_armor_wither_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10082
+      },
+      "model": "minecraft:mob/inner_armor_zombie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10083
+      },
+      "model": "minecraft:mob/inner_armor_zombie_villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10084
+      },
+      "model": "minecraft:mob/inner_armor_zombified_piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10085
+      },
+      "model": "minecraft:mob/iron_golem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10086
+      },
+      "model": "minecraft:mob/leash_knot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10087
+      },
+      "model": "minecraft:mob/llama"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10088
+      },
+      "model": "minecraft:mob/llama_spit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10089
+      },
+      "model": "minecraft:mob/magma_cube"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10090
+      },
+      "model": "minecraft:mob/minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10091
+      },
+      "model": "minecraft:mob/mooshroom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10092
+      },
+      "model": "minecraft:mob/mule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10093
+      },
+      "model": "minecraft:mob/ocelot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10094
+      },
+      "model": "minecraft:mob/outer_armor_armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10095
+      },
+      "model": "minecraft:mob/outer_armor_drowned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10096
+      },
+      "model": "minecraft:mob/outer_armor_giant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10097
+      },
+      "model": "minecraft:mob/outer_armor_husk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10098
+      },
+      "model": "minecraft:mob/outer_armor_piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10099
+      },
+      "model": "minecraft:mob/outer_armor_piglin_brute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10100
+      },
+      "model": "minecraft:mob/outer_armor_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10101
+      },
+      "model": "minecraft:mob/outer_armor_player_slim"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10102
+      },
+      "model": "minecraft:mob/outer_armor_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10103
+      },
+      "model": "minecraft:mob/outer_armor_stray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10104
+      },
+      "model": "minecraft:mob/outer_armor_wither_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10105
+      },
+      "model": "minecraft:mob/outer_armor_zombie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10106
+      },
+      "model": "minecraft:mob/outer_armor_zombie_villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10107
+      },
+      "model": "minecraft:mob/outer_armor_zombified_piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10108
+      },
+      "model": "minecraft:mob/outer_drowned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10109
+      },
+      "model": "minecraft:mob/outer_slime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10110
+      },
+      "model": "minecraft:mob/outer_stray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10111
+      },
+      "model": "minecraft:mob/panda"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10112
+      },
+      "model": "minecraft:mob/parrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10113
+      },
+      "model": "minecraft:mob/pattern_tropical_fish_large"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10114
+      },
+      "model": "minecraft:mob/pattern_tropical_fish_small"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10115
+      },
+      "model": "minecraft:mob/phantom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10116
+      },
+      "model": "minecraft:mob/pig"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10117
+      },
+      "model": "minecraft:mob/piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10118
+      },
+      "model": "minecraft:mob/piglin_brute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10119
+      },
+      "model": "minecraft:mob/pillager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10120
+      },
+      "model": "minecraft:mob/player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10121
+      },
+      "model": "minecraft:mob/player_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10122
+      },
+      "model": "minecraft:mob/player_slim"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10123
+      },
+      "model": "minecraft:mob/polar_bear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10124
+      },
+      "model": "minecraft:mob/pufferfish_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10125
+      },
+      "model": "minecraft:mob/pufferfish_medium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10126
+      },
+      "model": "minecraft:mob/pufferfish_small"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10127
+      },
+      "model": "minecraft:mob/rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10128
+      },
+      "model": "minecraft:mob/ravager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10129
+      },
+      "model": "minecraft:mob/saddle_pig"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10130
+      },
+      "model": "minecraft:mob/saddle_strider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10131
+      },
+      "model": "minecraft:mob/salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10132
+      },
+      "model": "minecraft:mob/sheep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10133
+      },
+      "model": "minecraft:mob/shell_conduit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10134
+      },
+      "model": "minecraft:mob/shield"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10135
+      },
+      "model": "minecraft:mob/shulker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10136
+      },
+      "model": "minecraft:mob/shulker_bullet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10137
+      },
+      "model": "minecraft:mob/sign_acacia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10138
+      },
+      "model": "minecraft:mob/sign_birch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10139
+      },
+      "model": "minecraft:mob/sign_crimson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10140
+      },
+      "model": "minecraft:mob/sign_dark_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10141
+      },
+      "model": "minecraft:mob/sign_jungle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10142
+      },
+      "model": "minecraft:mob/sign_mangrove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10143
+      },
+      "model": "minecraft:mob/sign_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10144
+      },
+      "model": "minecraft:mob/sign_spruce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10145
+      },
+      "model": "minecraft:mob/sign_warped"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10146
+      },
+      "model": "minecraft:mob/silverfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10147
+      },
+      "model": "minecraft:mob/skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10148
+      },
+      "model": "minecraft:mob/skeleton_horse"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10149
+      },
+      "model": "minecraft:mob/skeleton_skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10150
+      },
+      "model": "minecraft:mob/slime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10151
+      },
+      "model": "minecraft:mob/snow_golem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10152
+      },
+      "model": "minecraft:mob/spawner_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10153
+      },
+      "model": "minecraft:mob/spider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10154
+      },
+      "model": "minecraft:mob/spin_attack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10155
+      },
+      "model": "minecraft:mob/squid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10156
+      },
+      "model": "minecraft:mob/stray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10157
+      },
+      "model": "minecraft:mob/strider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10158
+      },
+      "model": "minecraft:mob/tadpole"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10159
+      },
+      "model": "minecraft:mob/tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10160
+      },
+      "model": "minecraft:mob/trader_llama"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10161
+      },
+      "model": "minecraft:mob/trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10162
+      },
+      "model": "minecraft:mob/tropical_fish_large"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10163
+      },
+      "model": "minecraft:mob/tropical_fish_small"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10164
+      },
+      "model": "minecraft:mob/turtle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10165
+      },
+      "model": "minecraft:mob/vex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10166
+      },
+      "model": "minecraft:mob/villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10167
+      },
+      "model": "minecraft:mob/vindicator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10168
+      },
+      "model": "minecraft:mob/wandering_trader"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10169
+      },
+      "model": "minecraft:mob/warden"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10170
+      },
+      "model": "minecraft:mob/wind_conduit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10171
+      },
+      "model": "minecraft:mob/witch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10172
+      },
+      "model": "minecraft:mob/wither"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10173
+      },
+      "model": "minecraft:mob/wither_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10174
+      },
+      "model": "minecraft:mob/wither_skeleton_skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10175
+      },
+      "model": "minecraft:mob/wither_skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10176
+      },
+      "model": "minecraft:mob/wolf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10177
+      },
+      "model": "minecraft:mob/zoglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10178
+      },
+      "model": "minecraft:mob/zombie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10179
+      },
+      "model": "minecraft:mob/zombie_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10180
+      },
+      "model": "minecraft:mob/zombie_horse"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10181
+      },
+      "model": "minecraft:mob/zombie_villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10182
+      },
+      "model": "minecraft:mob/zombified_piglin"
+    }
+  ]
+}

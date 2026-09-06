@@ -1,4 +1,4 @@
-{
+﻿{
   "block.note_block.pling": {
     "sounds": []
   },
@@ -18,6 +18,104 @@
         "name": "haohan:music/i_really_want_to_stay_at_your_house",
         "stream": true
       }
+    ]
+  },
+  "boss.slash_heavy": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/whoosh_heavy_1",
+      "haohan:boss/whoosh_heavy_2",
+      "haohan:boss/whoosh_heavy_3",
+      "haohan:boss/whoosh_heavy_4"
+    ]
+  },
+  "boss.slash_light": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/whoosh_light_1",
+      "haohan:boss/whoosh_light_2",
+      "haohan:boss/whoosh_light_3",
+      "haohan:boss/whoosh_light_4"
+    ]
+  },
+  "boss.arcslash": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/arcslash"
+    ]
+  },
+  "boss.judgementcut": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/judgementcut",
+      "haohan:boss/dmc5_jc0",
+      "haohan:boss/dmc5_jc1",
+      "haohan:boss/dmc5_jc2"
+    ]
+  },
+  "boss.mortalblade_charge": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/mortalblade_charge1",
+      "haohan:boss/mortalblade_charge2"
+    ]
+  },
+  "boss.mortalblade_whoosh": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/mortalblade_bloodwhoosh",
+      "haohan:boss/mortal_blade_whoosh"
+    ]
+  },
+  "boss.murasama": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/murasama_1",
+      "haohan:boss/murasama_2",
+      "haohan:boss/murasama_whoosh"
+    ]
+  },
+  "boss.parry": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/parry1",
+      "haohan:boss/parry2",
+      "haohan:boss/parry3",
+      "haohan:boss/parry4"
+    ]
+  },
+  "boss.magic": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/magic1",
+      "haohan:boss/circulate_qi"
+    ]
+  },
+  "boss.electric": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/electric",
+      "haohan:boss/raiden"
+    ]
+  },
+  "boss.sword_sheath": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/mortalblade_swordin",
+      "haohan:boss/yamato_in"
+    ]
+  },
+  "boss.sword_draw": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/mortalblade_swordout",
+      "haohan:boss/yamato"
+    ]
+  },
+  "boss.skill_gained": {
+    "category": "hostile",
+    "sounds": [
+      "haohan:boss/sekiro_skill_gained"
     ]
   }
 }

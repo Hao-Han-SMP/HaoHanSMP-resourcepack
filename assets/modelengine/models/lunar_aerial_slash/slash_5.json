@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/models/hf_blade_slash","particle":"#0"},"elements":[{"from":[-4.0,7.975,0.0],"to":[20.0,8.025,16.0],"faces":{"up":{"uv":[0.0,8.45977,5.3125,11.64751],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.0,11.64751,5.3125,8.45977],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

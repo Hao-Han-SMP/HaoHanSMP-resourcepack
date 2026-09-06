@@ -2,15 +2,15 @@
   "credit": "AnchorPoint design by KuroHere",
   "ambientocclusion": true,
   "textures": {
-    "particle": "minecraft:block/anchor_spawn/base_mid",
-    "base_dark": "minecraft:block/anchor_spawn/base_dark",
-    "base_mid": "minecraft:block/anchor_spawn/base_mid",
-    "base_light": "minecraft:block/anchor_spawn/base_light",
-    "trim_dark": "minecraft:block/anchor_spawn/trim_dark",
-    "trim_mid": "minecraft:block/anchor_spawn/trim_mid",
-    "trim_light": "minecraft:block/anchor_spawn/trim_light",
-    "pillar": "minecraft:block/anchor_spawn/pillar",
-    "core": "minecraft:block/anchor_spawn/soul_core"
+    "particle": "haohan:block/anchor_spawn/base_mid",
+    "base_dark": "haohan:block/anchor_spawn/base_dark",
+    "base_mid": "haohan:block/anchor_spawn/base_mid",
+    "base_light": "haohan:block/anchor_spawn/base_light",
+    "trim_dark": "haohan:block/anchor_spawn/trim_dark",
+    "trim_mid": "haohan:block/anchor_spawn/trim_mid",
+    "trim_light": "haohan:block/anchor_spawn/trim_light",
+    "pillar": "haohan:block/anchor_spawn/pillar",
+    "core": "haohan:block/anchor_spawn/soul_core"
   },
   "display": {
     "gui": {
