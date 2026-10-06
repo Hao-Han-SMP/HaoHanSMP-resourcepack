@@ -3,30 +3,40 @@
     {
       "type": "space",
       "advances": {
-        "\ue3f0": -210,
-        "\ue3f1": -105,
-        "\ue3f2": -64,
-        "\ue3f3": -32,
-        "\ue3f4": -16,
-        "\ue3f5": -8,
-        "\ue3f6": -4,
-        "\ue3f7": -2,
-        "\ue3f8": -1,
-        "\ue3f9": 1,
-        "\ue3fa": 2,
-        "\ue3fb": 4,
-        "\ue3fc": 8,
-        "\ue3fd": 16,
-        "\ue3fe": 32,
-        "\ue3ff": 64,
-        "\ue3ee": 105,
-        "\ue3ef": 210
+        "": -210,
+        "\ue3ea": -216,
+        "": -105,
+        "": -64,
+        "": -32,
+        "": -16,
+        "": -8,
+        "": -4,
+        "": -2,
+        "": -1,
+        "": 1,
+        "": 2,
+        "": 4,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 105,
+        "": 210
       }
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/hud/module_card_bg.png",
+      "ascent": 15,
+      "height": 38,
+      "chars": [
+        "\ue700"
+      ]
     },
     {
       "type": "space",
       "advances": {
-        "\ue100": -8
+        "": -8
       }
     },
     {
@@ -35,7 +45,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue101"
+        ""
       ]
     },
     {
@@ -44,7 +54,7 @@
       "ascent": 13,
       "height": 132,
       "chars": [
-        "\ue102"
+        ""
       ]
     },
     {
@@ -53,7 +63,7 @@
       "ascent": 13,
       "height": 150,
       "chars": [
-        "\ue103"
+        ""
       ]
     },
     {
@@ -62,7 +72,7 @@
       "ascent": 13,
       "height": 168,
       "chars": [
-        "\ue104"
+        ""
       ]
     },
     {
@@ -71,7 +81,7 @@
       "ascent": 13,
       "height": 186,
       "chars": [
-        "\ue105"
+        ""
       ]
     },
     {
@@ -80,7 +90,7 @@
       "ascent": 13,
       "height": 204,
       "chars": [
-        "\ue106"
+        ""
       ]
     },
     {
@@ -89,7 +99,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue107"
+        ""
       ]
     },
     {
@@ -98,7 +108,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue111"
+        ""
       ]
     },
     {
@@ -107,7 +117,7 @@
       "ascent": 13,
       "height": 150,
       "chars": [
-        "\ue113"
+        ""
       ]
     },
     {
@@ -116,7 +126,7 @@
       "ascent": 13,
       "height": 168,
       "chars": [
-        "\ue114"
+        ""
       ]
     },
     {
@@ -125,7 +135,7 @@
       "ascent": 13,
       "height": 186,
       "chars": [
-        "\ue115"
+        ""
       ]
     },
     {
@@ -134,7 +144,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue117"
+        ""
       ]
     },
     {
@@ -143,7 +153,7 @@
       "ascent": 13,
       "height": 150,
       "chars": [
-        "\ue123"
+        ""
       ]
     },
     {
@@ -152,7 +162,7 @@
       "ascent": 13,
       "height": 168,
       "chars": [
-        "\ue124"
+        ""
       ]
     },
     {
@@ -161,7 +171,7 @@
       "ascent": 13,
       "height": 186,
       "chars": [
-        "\ue125"
+        ""
       ]
     },
     {
@@ -170,7 +180,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue127"
+        ""
       ]
     },
     {
@@ -179,7 +189,7 @@
       "ascent": 13,
       "height": 150,
       "chars": [
-        "\ue133"
+        ""
       ]
     },
     {
@@ -188,7 +198,7 @@
       "ascent": 13,
       "height": 168,
       "chars": [
-        "\ue134"
+        ""
       ]
     },
     {
@@ -197,7 +207,7 @@
       "ascent": 13,
       "height": 186,
       "chars": [
-        "\ue135"
+        ""
       ]
     },
     {
@@ -206,7 +216,7 @@
       "ascent": 13,
       "height": 222,
       "chars": [
-        "\ue137"
+        ""
       ]
     },
     {
@@ -215,7 +225,7 @@
       "ascent": 13,
       "height": 167,
       "chars": [
-        "\ue150"
+        ""
       ]
     },
     {
@@ -224,7 +234,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue270"
+        ""
       ]
     },
     {
@@ -233,7 +243,7 @@
       "ascent": 0,
       "height": 38,
       "chars": [
-        "\ue260"
+        ""
       ]
     },
     {
@@ -242,7 +252,7 @@
       "ascent": 0,
       "height": 100,
       "chars": [
-        "\ue220"
+        ""
       ]
     },
     {
@@ -251,7 +261,7 @@
       "ascent": 0,
       "height": 100,
       "chars": [
-        "\ue221"
+        ""
       ]
     },
     {
@@ -260,7 +270,268 @@
       "ascent": 0,
       "height": 100,
       "chars": [
-        "\ue222"
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/info.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/calendar.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/battery.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/module.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/mode.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/settings.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/exit.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_0.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_1.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_2.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_3.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_4.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_5.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_6.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_7.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_8.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_9.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_cyan_10.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_0.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_1.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_2.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_3.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_4.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_5.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_6.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_7.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_8.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_9.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "haohan:gui/lunar/progressbar_green_10.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     }
   ]
