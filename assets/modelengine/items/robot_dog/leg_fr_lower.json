@@ -1,0 +1,13 @@
+{
+  "model": {
+    "model": "modelengine:robot_dog/leg_fr_lower",
+    "tints": [
+      {
+        "index": 0,
+        "default": 16777215,
+        "type": "minecraft:custom_model_data"
+      }
+    ],
+    "type": "minecraft:model"
+  }
+}
