@@ -1,0 +1,35 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue3ea": -216,
+        "\ue3f0": -210,
+        "\ue3f1": -105,
+        "\ue3f2": -64,
+        "\ue3f3": -32,
+        "\ue3f4": -16,
+        "\ue3f5": -8,
+        "\ue3f6": -4,
+        "\ue3f7": -2,
+        "\ue3f8": -1,
+        "\ue3f9": 1,
+        "\ue3fa": 2,
+        "\ue3fb": 4,
+        "\ue3fc": 8,
+        "\ue3fd": 16,
+        "\ue3fe": 32,
+        "\ue3ff": 64,
+        "\ue3ee": 105,
+        "\ue3ef": 210
+      }
+    },
+    {
+      "type": "ttf",
+      "file": "haohan:haohan_hud.ttf",
+      "shift": [0.0, 18.0],
+      "size": 9.0,
+      "oversample": 2.0
+    }
+  ]
+}
