@@ -1,6 +1,25 @@
 {
   "block.note_block.pling": {
+    "replace": true,
     "sounds": []
+  },
+  "block.barrier.place": {
+    "replace": true,
+    "sounds": [
+      "minecraft:block/silence"
+    ]
+  },
+  "block.barrier.hit": {
+    "replace": true,
+    "sounds": [
+      "minecraft:block/silence"
+    ]
+  },
+  "block.barrier.step": {
+    "replace": true,
+    "sounds": [
+      "minecraft:block/silence"
+    ]
   },
   "music_disc.i_really_want_to_stay_at_your_house": {
     "category": "record",
