@@ -1095,6 +1095,66 @@
         "custom_model_data": 10182
       },
       "model": "minecraft:mob/zombified_piglin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "itemcore:block/destroy_stage_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90001
+      },
+      "model": "itemcore:block/destroy_stage_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90002
+      },
+      "model": "itemcore:block/destroy_stage_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90003
+      },
+      "model": "itemcore:block/destroy_stage_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90004
+      },
+      "model": "itemcore:block/destroy_stage_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90005
+      },
+      "model": "itemcore:block/destroy_stage_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90006
+      },
+      "model": "itemcore:block/destroy_stage_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90007
+      },
+      "model": "itemcore:block/destroy_stage_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90008
+      },
+      "model": "itemcore:block/destroy_stage_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90009
+      },
+      "model": "itemcore:block/destroy_stage_9"
     }
   ]
 }
