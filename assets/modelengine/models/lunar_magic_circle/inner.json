@@ -1,0 +1,1 @@
+{"textures":{"2":"modelengine:entity/models/circle_inner","particle":"#2"},"elements":[{"from":[0.0,8.3,0.0],"to":[16.0,8.3,16.0],"faces":{"up":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#2"},"down":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#2"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
