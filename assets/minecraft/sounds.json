@@ -1,8 +1,4 @@
 {
-  "block.note_block.pling": {
-    "replace": true,
-    "sounds": []
-  },
   "block.barrier.place": {
     "replace": true,
     "sounds": [
