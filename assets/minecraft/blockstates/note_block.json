@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "instrument=flute,note=0,powered=false": {
+      "model": "haohan:block/borax_ore"
+    },
+    "instrument=flute,note=1,powered=false": {
+      "model": "haohan:block/mithril_ore"
+    },
+    "instrument=flute,note=2,powered=false": {
+      "model": "haohan:block/deepslate_borax_ore"
+    },
+    "instrument=flute,note=3,powered=false": {
+      "model": "haohan:block/deepslate_mithril_ore"
+    },
+    "instrument=flute,note=4,powered=false": {
+      "model": "haohan:block/charcoal_block"
+    },
+    "instrument=pling,note=21,powered=true": {
+      "model": "haohan:block/kreep_basalt"
+    },
+    "instrument=pling,note=22,powered=true": {
+      "model": "haohan:block/pyroxene_ore"
+    },
+    "instrument=pling,note=23,powered=true": {
+      "model": "haohan:block/ilmenite_ore"
+    },
+    "instrument=pling,note=24,powered=true": {
+      "model": "haohan:block/anorthosite_ore"
+    },
+    "": {
+      "model": "minecraft:block/note_block"
+    }
+  }
+}
