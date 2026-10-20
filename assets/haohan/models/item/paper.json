@@ -1155,6 +1155,42 @@
         "custom_model_data": 90009
       },
       "model": "itemcore:block/destroy_stage_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910000
+      },
+      "model": "haohan:item/flash_white_alpha_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910001
+      },
+      "model": "haohan:item/flash_white_alpha_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910002
+      },
+      "model": "haohan:item/flash_white_alpha_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910003
+      },
+      "model": "haohan:item/flash_white_alpha_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910004
+      },
+      "model": "haohan:item/flash_white_alpha_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910005
+      },
+      "model": "haohan:item/flash_white_alpha_5"
     }
   ]
 }
