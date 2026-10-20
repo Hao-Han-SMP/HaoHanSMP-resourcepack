@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/models/rift_core","particle":"#0"},"elements":[{"from":[-8.0,8.0,-8.0],"to":[24.0,8.0,24.0],"faces":{"up":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

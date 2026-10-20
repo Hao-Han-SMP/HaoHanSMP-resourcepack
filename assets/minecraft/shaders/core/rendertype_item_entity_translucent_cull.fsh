@@ -1,4 +1,4 @@
-#version 150
+﻿#version 150
 
 uniform sampler2D Sampler0;
 
@@ -13,12 +13,9 @@ in vec3 vertexPosition;
 
 out vec4 fragColor;
 
-#moj_import <minecraft:raymarching.glsl>
 #moj_import <minecraft:utils.glsl>
 #moj_import <minecraft:model_effects.glsl>
 
-#moj_import <minecraft:skyboxes/raymarching/scene.glsl>
-#moj_import <minecraft:skyboxes/ocean.glsl>
 #moj_import <minecraft:skyboxes/lunar_lib.glsl>
 
 // Value noise & hash inspired by Cosmic Horizons (black_hole.fsh)

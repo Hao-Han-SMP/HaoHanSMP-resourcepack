@@ -1,1 +1,1086 @@
-{"model":{"entries":[{"model":{"model":"modelengine:lunar_force_field/slice_8","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":1},{"model":{"model":"modelengine:lunar_force_field/slice_7","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":2},{"model":{"model":"modelengine:lunar_force_field/slice_3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":3},{"model":{"model":"modelengine:lunar_force_field/slice_10","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":4},{"model":{"model":"modelengine:lunar_force_field/slice_4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":5},{"model":{"model":"modelengine:lunar_force_field/slice_1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":6},{"model":{"model":"modelengine:lunar_force_field/slice_5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":7},{"model":{"model":"modelengine:lunar_force_field/slice_11","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":8},{"model":{"model":"modelengine:lunar_energy_beam/seg_1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":9},{"model":{"model":"modelengine:lunar_energy_beam/seg_0","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":10},{"model":{"model":"modelengine:lunar_energy_beam/seg_2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":11},{"model":{"model":"modelengine:lunar_energy_beam/seg_3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":12},{"model":{"model":"modelengine:lunar_rift_slash/core","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":13},{"model":{"model":"modelengine:axe/blade_left/11","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":14},{"model":{"model":"modelengine:axe/blade_left/9","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":15},{"model":{"model":"modelengine:claymore/luoi_kiem","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":16},{"model":{"model":"modelengine:lunar_rift_slash/glow","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":17},{"model":{"model":"modelengine:claymore/core","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":18},{"model":{"model":"modelengine:claymore/kiem_cach","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":19},{"model":{"model":"modelengine:claymore/chuoi_kiem","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":20},{"model":{"model":"modelengine:axe/blade_right/11","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":21},{"model":{"model":"modelengine:axe/blade_right/7","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":22},{"model":{"model":"modelengine:axe/blade_right/10","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":23},{"model":{"model":"modelengine:axe/blade_right/5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":24},{"model":{"model":"modelengine:axe/blade_right/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":25},{"model":{"model":"modelengine:axe/blade_right/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":26},{"model":{"model":"modelengine:claymore/kiem_cach/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":27},{"model":{"model":"modelengine:claymore/kiem_cach/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":28},{"model":{"model":"modelengine:claymore/group2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":29},{"model":{"model":"modelengine:claymore/group","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":30},{"model":{"model":"modelengine:axe/blade_right/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":31},{"model":{"model":"modelengine:axe/blade_right/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":32},{"model":{"model":"modelengine:axe/handle/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":33},{"model":{"model":"modelengine:axe/handle/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":34},{"model":{"model":"modelengine:axe/handle/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":35},{"model":{"model":"modelengine:axe/handle","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":36},{"model":{"model":"modelengine:axe/blade_left/7","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":37},{"model":{"model":"modelengine:axe/blade_left/5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":38},{"model":{"model":"modelengine:axe/blade_left","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":39},{"model":{"model":"modelengine:axe/blade_left/10","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":40},{"model":{"model":"modelengine:axe/blade_left/6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":41},{"model":{"model":"modelengine:axe/blade_left/12","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":42},{"model":{"model":"modelengine:axe/blade_left/8","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":43},{"model":{"model":"modelengine:axe/core","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":44},{"model":{"model":"modelengine:lunar_aerial_slash/slash_0","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":45},{"model":{"model":"modelengine:lunar_aerial_slash/slash_5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":46},{"model":{"model":"modelengine:lunar_aerial_slash/slash_2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":47},{"model":{"model":"modelengine:lunar_aerial_slash/slash_4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":48},{"model":{"model":"modelengine:lunar_aerial_slash/slash_1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":49},{"model":{"model":"modelengine:lunar_aerial_slash/slash_3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":50},{"model":{"model":"modelengine:lunar_aerial_slash/slash_6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":51},{"model":{"model":"modelengine:lunar_force_field/slice_6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":52},{"model":{"model":"modelengine:lunar_force_field/slice_2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":53},{"model":{"model":"modelengine:lunar_force_field/slice_0","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":54},{"model":{"model":"modelengine:lunar_force_field/caps","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":55},{"model":{"model":"modelengine:lunar_force_field/slice_9","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":56},{"model":{"model":"modelengine:axe/blade_left/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":57},{"model":{"model":"modelengine:axe/blade_left/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":58},{"model":{"model":"modelengine:axe/blade_left/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":59},{"model":{"model":"modelengine:axe/blade_left/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":60},{"model":{"model":"modelengine:axe/blade_right/9","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":61},{"model":{"model":"modelengine:axe/blade_right/8","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":62},{"model":{"model":"modelengine:axe/blade_right","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":63},{"model":{"model":"modelengine:axe/blade_right/6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":64},{"model":{"model":"modelengine:axe/blade_right/12","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":65},{"model":{"model":"modelengine:lunar_planet_trail/ring","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":66},{"model":{"model":"modelengine:lunar_magic_circle/outer","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":67},{"model":{"model":"modelengine:lunar_black_hole/disk","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":68},{"model":{"model":"modelengine:axe/crown/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":69},{"model":{"model":"modelengine:lunar_energy_beam/impact","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":70},{"model":{"model":"modelengine:lunar_black_hole/halo","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":71},{"model":{"model":"modelengine:lunar_planet_trail/planet","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":72},{"model":{"model":"modelengine:lunar_magic_circle/middle","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":73},{"model":{"model":"modelengine:lunar_magic_circle/inner","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":74},{"model":{"model":"modelengine:lunar_rift_slash/shard_3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":75},{"model":{"model":"modelengine:axe/crown/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":76},{"model":{"model":"modelengine:lunar_rift_slash/shard_0","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":77},{"model":{"model":"modelengine:lunar_rift_slash/shard_1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":78},{"model":{"model":"modelengine:lunar_rift_slash/shard_5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":79},{"model":{"model":"modelengine:lunar_rift_slash/shard_4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":80},{"model":{"model":"modelengine:axe/crown","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":81},{"model":{"model":"modelengine:lunar_rift_slash/shard_2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":82},{"model":{"model":"modelengine:flying_dagger/chuoi_dao","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":83},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":84},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":85},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":86},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":87},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":88},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/8","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":89},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/7","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":90},{"model":{"model":"modelengine:flying_dagger/chuoi_dao/6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":91},{"model":{"model":"modelengine:flying_dagger/luoi_dao/8","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":92},{"model":{"model":"modelengine:flying_dagger/luoi_dao/7","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":93},{"model":{"model":"modelengine:flying_dagger/luoi_dao/6","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":94},{"model":{"model":"modelengine:flying_dagger/luoi_dao/5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":95},{"model":{"model":"modelengine:flying_dagger/luoi_dao/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":96},{"model":{"model":"modelengine:flying_dagger/luoi_dao/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":97},{"model":{"model":"modelengine:flying_dagger/luoi_dao","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":98},{"model":{"model":"modelengine:axe/handle/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":99},{"model":{"model":"modelengine:axe/handle/5","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":100},{"model":{"model":"modelengine:internal_fire/fire_0","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":101},{"model":{"model":"modelengine:internal_fire/fire_1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":102},{"model":{"model":"modelengine:flying_dagger/luoi_dao/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":103},{"model":{"model":"modelengine:flying_dagger/luoi_dao/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":104},{"model":{"model":"modelengine:flying_dagger/kiem_cach/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":105},{"model":{"model":"modelengine:flying_dagger/kiem_cach","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":106},{"model":{"model":"modelengine:flying_dagger/kiem_cach/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":107},{"model":{"model":"modelengine:flying_dagger/kiem_cach/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":108},{"model":{"model":"modelengine:flying_dagger/kiem_cach/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":109},{"model":{"model":"modelengine:flying_dagger/vay_dao/3","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":110},{"model":{"model":"modelengine:flying_dagger/vay_dao/1","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":111},{"model":{"model":"modelengine:flying_dagger/vay_dao/2","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":112},{"model":{"model":"modelengine:flying_dagger/vay_dao/4","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":113},{"model":{"model":"modelengine:flying_dagger/vay_dao","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":114},{"model":{"model":"modelengine:flying_dagger/core","tints":[{"default":-1,"type":"minecraft:dye"}],"type":"minecraft:model"},"threshold":115}],"fallback":{"model":"minecraft:item/leather_horse_armor","tints":[{"default":-6265536,"type":"minecraft:dye"}],"type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"},"oversized_in_gui":true}
+{
+  "model": {
+    "entries": [
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/11",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/9",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/luoi_kiem",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 16
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/core",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 18
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/kiem_cach",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 19
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/chuoi_kiem",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 20
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/11",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 21
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/7",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 22
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/10",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 23
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 24
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 25
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 26
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/kiem_cach/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 27
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/kiem_cach/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 28
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/group2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 29
+      },
+      {
+        "model": {
+          "model": "modelengine:claymore/group",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 30
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 31
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 32
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 33
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 34
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 35
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 36
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/7",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 37
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 38
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 39
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/10",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 40
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/6",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 41
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/12",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 42
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/8",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 43
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/core",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 44
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_0",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 45
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 46
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 47
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 48
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 49
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 50
+      },
+      {
+        "model": {
+          "model": "modelengine:lunar_aerial_slash/slash_6",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 51
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 57
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 58
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 59
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_left/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 60
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/9",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 61
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/8",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 62
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 63
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/6",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 64
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/blade_right/12",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 65
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/crown/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 69
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/crown/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 76
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/crown",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 81
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 83
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 84
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 85
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 86
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 87
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 88
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/8",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 89
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/7",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 90
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/chuoi_dao/6",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 91
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/8",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 92
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/7",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 93
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/6",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 94
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 95
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 96
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 97
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 98
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 99
+      },
+      {
+        "model": {
+          "model": "modelengine:axe/handle/5",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 100
+      },
+      {
+        "model": {
+          "model": "modelengine:internal_fire/fire_0",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 101
+      },
+      {
+        "model": {
+          "model": "modelengine:internal_fire/fire_1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 102
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 103
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/luoi_dao/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 104
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/kiem_cach/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 105
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/kiem_cach",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 106
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/kiem_cach/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 107
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/kiem_cach/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 108
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/kiem_cach/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 109
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/vay_dao/3",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 110
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/vay_dao/1",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 111
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/vay_dao/2",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 112
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/vay_dao/4",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 113
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/vay_dao",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 114
+      },
+      {
+        "model": {
+          "model": "modelengine:flying_dagger/core",
+          "tints": [
+            {
+              "default": -1,
+              "type": "minecraft:dye"
+            }
+          ],
+          "type": "minecraft:model"
+        },
+        "threshold": 115
+      }
+    ],
+    "fallback": {
+      "model": "minecraft:item/leather_horse_armor",
+      "tints": [
+        {
+          "default": -6265536,
+          "type": "minecraft:dye"
+        }
+      ],
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:custom_model_data",
+    "type": "minecraft:range_dispatch",
+    "cases": []
+  },
+  "oversized_in_gui": true
+}

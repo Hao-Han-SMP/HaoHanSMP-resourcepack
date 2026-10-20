@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/models/beam_core","particle":"#0"},"elements":[{"from":[7.8481216,8.0,7.633333],"to":[8.151878,29.333334,7.633333],"faces":{"north":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
