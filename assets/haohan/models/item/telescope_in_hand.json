@@ -1,6 +1,7 @@
 {
   "textures": {
-    "texture": "haohan:item/telescope"
+    "texture": "haohan:item/telescope",
+    "particle": "haohan:item/telescope"
   },
   "display": {
     "thirdperson_righthand": {

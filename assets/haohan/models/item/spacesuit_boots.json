@@ -1,6 +1,7 @@
 {
   "textures": {
-    "texture": "haohan:item/spacesuit_worn_layer_1"
+    "texture": "haohan:item/spacesuit_worn_layer_1",
+    "particle": "haohan:item/spacesuit_worn_layer_1"
   },
   "display": {
     "thirdperson_righthand": {
