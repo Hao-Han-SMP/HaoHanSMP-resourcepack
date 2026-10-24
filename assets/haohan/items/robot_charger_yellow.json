@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "haohan:item/robot_charger_yellow",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": 16763904,
+        "index": 0
+      }
+    ]
+  }
+}

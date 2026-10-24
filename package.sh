@@ -9,6 +9,9 @@ OUTPUT_NAME="${OUTPUT_DIR}/${DIR_NAME}.zip"
 
 FILES_TO_ZIP=()
 [ -d "assets" ] && FILES_TO_ZIP+=("assets")
+for dir in modelengine_*; do
+    [ -d "$dir" ] && FILES_TO_ZIP+=("$dir")
+done
 [ -f "pack.mcmeta" ] && FILES_TO_ZIP+=("pack.mcmeta")
 [ -f "pack.png" ] && FILES_TO_ZIP+=("pack.png")
 [ -f "LICENSE" ] && FILES_TO_ZIP+=("LICENSE")

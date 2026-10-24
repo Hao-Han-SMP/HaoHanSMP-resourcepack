@@ -107,6 +107,9 @@ void main() {
         color = vec4(glowCol, edgeSoft) * ColorModulator;
     } else if (abs(rawA - 233.0) < 1.2) {
         color = vec4(0.0, 0.0, 0.0, 1.0);
+    } else if (marker == 245 || marker == 202 || marker == 182 || marker == 152 || marker == 102 || marker == 52) {
+        float glowAlpha = (marker == 245) ? 1.0 : tex.a;
+        color = vec4(tex.rgb * baseColor.rgb, glowAlpha) * ColorModulator;
     } else if (marker >= 170 && marker <= 220) {
         float sa = float(marker - 170) / 50.0;
         if (sa < 0.02) discard;
@@ -115,7 +118,7 @@ void main() {
         color = tex * vertexColor * ColorModulator;
         if (color.a < 0.1) discard;
     }
-    if (rawA >= 169.0 && rawA <= 235.0) {
+    if ((rawA >= 169.0 && rawA <= 235.0) || marker == 245 || marker == 202 || marker == 182 || marker == 152 || marker == 102 || marker == 52) {
         fragColor = color;
     } else {
         fragColor = applyFog(color, 1.0);

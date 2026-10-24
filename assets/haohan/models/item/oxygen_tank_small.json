@@ -1,6 +1,682 @@
 {
-  "parent": "minecraft:item/generated",
+  "credit": "HaoHan SMP Lunar 3D Engineering",
   "textures": {
-    "layer0": "haohan:item/oxygen_tank_small"
-  }
+    "texture": "haohan:item/oxygen_tank_small",
+    "particle": "haohan:item/oxygen_tank_small"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1.5
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1.5
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        1,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "translation": [
+        1,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        0.5,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "tank_base",
+      "from": [
+        5.0,
+        1.0,
+        5.0
+      ],
+      "to": [
+        11.0,
+        2.5,
+        11.0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            5,
+            14,
+            11,
+            15
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "tank_body",
+      "from": [
+        4.5,
+        2.5,
+        4.5
+      ],
+      "to": [
+        11.5,
+        11.0,
+        11.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            5,
+            13,
+            13
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3,
+            5,
+            13,
+            13
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            3,
+            5,
+            11,
+            13
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            3,
+            5,
+            11,
+            13
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            4,
+            5,
+            12,
+            7
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            4,
+            12,
+            12,
+            14
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "strap_lower",
+      "from": [
+        4.25,
+        4.5,
+        4.25
+      ],
+      "to": [
+        11.75,
+        5.5,
+        11.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            3,
+            10,
+            13,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "strap_upper",
+      "from": [
+        4.25,
+        8.5,
+        4.25
+      ],
+      "to": [
+        11.75,
+        9.5,
+        11.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            3,
+            7,
+            13,
+            8
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "o2_gauge",
+      "from": [
+        6.0,
+        5.5,
+        4.0
+      ],
+      "to": [
+        10.0,
+        8.5,
+        4.6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            8,
+            10,
+            10
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            6,
+            8,
+            10,
+            10
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            6,
+            8,
+            10,
+            10
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            6,
+            8,
+            10,
+            10
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            6,
+            7,
+            10,
+            8
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            6,
+            10,
+            10,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "tank_dome",
+      "from": [
+        5.5,
+        11.0,
+        5.5
+      ],
+      "to": [
+        10.5,
+        12.25,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "valve_neck",
+      "from": [
+        6.75,
+        12.25,
+        6.75
+      ],
+      "to": [
+        9.25,
+        13.5,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            6,
+            3,
+            10,
+            4
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "valve_wheel",
+      "from": [
+        5.75,
+        13.5,
+        6.5
+      ],
+      "to": [
+        10.25,
+        14.75,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            2,
+            11,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5,
+            2,
+            11,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            5,
+            2,
+            11,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            5,
+            2,
+            11,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            5,
+            2,
+            11,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            6,
+            2,
+            10,
+            3
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ]
 }
