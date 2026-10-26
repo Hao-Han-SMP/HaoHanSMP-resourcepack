@@ -26,27 +26,13 @@ bool isLeatherColor(vec3 colorToExpect) {
 }
 
 bool isTextureAlpha(float valueToExpect) {
-	bool alphaConfiemd = false;
-
-	float epsilon = 0.001;
-    float colorValue = texture(Sampler0, texCoord0*0.9999999 + vec2(0.00000005)).a * 255.;
-	if(distance(colorValue,valueToExpect) < epsilon) {
-		alphaConfiemd = true;
-	}
-
-	return alphaConfiemd;
+	float colorValue = texture(Sampler0, texCoord0).a * 255.0;
+	return abs(colorValue - valueToExpect) < 0.5;
 }
 
-bool isTextureAlphaRange(float minValueToExpect,float maxValueToExpect) {
-	bool alphaConfiemd = false;
-
-	float epsilon = 0.001;
-    float colorValue = texture(Sampler0, texCoord0*0.9999999 + vec2(0.00000005)).a * 255.;
-	if(colorValue <= maxValueToExpect && colorValue >= minValueToExpect) {
-		alphaConfiemd = true;
-	}
-
-	return alphaConfiemd;
+bool isTextureAlphaRange(float minValueToExpect, float maxValueToExpect) {
+	float colorValue = texture(Sampler0, texCoord0).a * 255.0;
+	return colorValue <= (maxValueToExpect + 0.5) && colorValue >= (minValueToExpect - 0.5);
 }
 
 ///////////////////////

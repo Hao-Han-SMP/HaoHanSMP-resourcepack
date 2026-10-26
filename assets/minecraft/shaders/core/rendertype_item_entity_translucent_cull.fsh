@@ -2,6 +2,10 @@
 
 uniform sampler2D Sampler0;
 
+uniform vec4 ColorModulator;
+uniform float GameTime;
+uniform vec2 ScreenSize;
+
 in vec4 vertexColor;
 in vec2 texCoord0;
 in vec2 texCoord1;

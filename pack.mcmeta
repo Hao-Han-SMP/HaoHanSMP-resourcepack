@@ -70,7 +70,9 @@
     "sodium":  {
                    "ignored_shaders":  [
                                            "rendertype_entity_translucent.fsh",
-                                           "rendertype_entity_translucent.vsh"
+                                           "rendertype_entity_translucent.vsh",
+                                           "rendertype_item_entity_translucent_cull.fsh",
+                                           "rendertype_item_entity_translucent_cull.vsh"
                                        ]
                }
 }

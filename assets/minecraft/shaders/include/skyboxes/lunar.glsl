@@ -1,27 +1,26 @@
 // Lunar sky simulation. DayTime controls the apparent sky rotation, while
 // GameTime supplies the resource-pack shader's repeating sub-day animation phase.
 float lsSimDays=GameTime;
-// DayTime is supplied by the mod's model shader and changes immediately with
-// /time set. Rotate the complete celestial sphere around its vertical axis so
-// the sky follows Minecraft's apparent daily motion.
+// Diurnal axial rotation following Minecraft's day/night cycle.
+// Reoriented so the celestial sphere rises in the East, arches high across the zenith,
+// and sets in the West, mirroring Overworld sun & moon motion.
 float lsDayPhase=fract(DayTime());
-vec3 lsSkyRay=lsRotateY(worldDirection,(lsDayPhase-0.25)*LS_TAU);
-// The pack only receives a one-day phase, not cumulative world age. Preserve
-// real relative spin rates for fast rotators and give slow rotators one visible
-// cycle per Minecraft day so Mercury, Venus and the ice giants do not look frozen.
-float lsSpinDay=fract(DayTime())*2.5;
-float spinSun=LS_TAU*lsSpinDay/max(25.05,1.0);
-float spinMercury=LS_TAU*lsSpinDay/max(58.646,1.0);
-// Venus is retrograde because its near-inverted pole is in tiltVenus; the
-// positive local-axis spin combines with that pole direction to move backward.
-float spinVenus=LS_TAU*lsSpinDay/max(243.025,1.0);
-float spinEarth=LS_TAU*lsSpinDay/max(0.9972696,1.0);
-float spinMars=LS_TAU*lsSpinDay/max(1.025957,1.0);
-float spinJupiter=LS_TAU*lsSpinDay/max(9.925/24.0,1.0);
-float spinSaturn=LS_TAU*lsSpinDay/max(10.656/24.0,1.0);
-float spinUranus=LS_TAU*lsSpinDay/max(17.24/24.0,1.0);
-float spinNeptune=LS_TAU*lsSpinDay/max(16.11/24.0,1.0);
-float spinPluto=LS_TAU*lsSpinDay/max(6.3872,1.0);
+float lsDayAngle=(lsDayPhase-0.25)*LS_TAU;
+vec3 lsSkyRay=lsRotateZ(lsRotateX(worldDirection,radians(16.0)),-lsDayAngle);
+// Continuous diurnal axial rotation around each planet's tilted spin axis.
+// Combines real-time shader GameTime with DayTime so planets visibly rotate around
+// their physical poles even when doDaylightCycle is locked on the server.
+float lsContinuousSpin = GameTime * 0.10 + fract(DayTime()) * LS_TAU;
+float spinSun = lsContinuousSpin * 0.15;
+float spinMercury = lsContinuousSpin * 0.25;
+float spinVenus = -lsContinuousSpin * 0.20;
+float spinEarth = lsContinuousSpin * 0.65;
+float spinMars = lsContinuousSpin * 0.60;
+float spinJupiter = lsContinuousSpin * 1.45;
+float spinSaturn = lsContinuousSpin * 1.35;
+float spinUranus = lsContinuousSpin * 0.85;
+float spinNeptune = lsContinuousSpin * 0.90;
+float spinPluto = lsContinuousSpin * 0.30;
 vec3 tiltMercury=vec3(0.0005,0.0,0.3);
 vec3 tiltVenus=vec3(3.094,0.0,1.2);
 vec3 tiltEarth=vec3(0.409,0.0,0.8);
@@ -43,37 +42,31 @@ float lsAuScale=40000.0;
 // A shared 4x base display factor preserves body-radius ratios. Small remote
 // planets get a minimum angular size below so their cubes remain observable.
 float lsEarthRadius=40000.0*6371.0/149597870.7*4.0;
-vec3 earthCenter=normalize(vec3(-2500.0,200.0,1500.0))*103.0;
-vec3 earthOrbit=lsOrbitPosition(1.00000017,0.01672183,365.256,radians(276.2161),radians(-0.0041),radians(-5.1772),radians(108.1924));
-vec3 mercuryOrbit=lsOrbitPosition(0.38709843,0.20564229,87.969,radians(235.7786),radians(7.0040),radians(48.3069),radians(29.1935));
-vec3 venusOrbit=lsOrbitPosition(0.72332095,0.00675032,224.701,radians(238.2319),radians(3.3979),radians(76.5996),radians(55.1832));
-vec3 marsOrbit=lsOrbitPosition(1.52371269,0.09338961,686.980,radians(104.0074),radians(1.8499),radians(49.6413),radians(-73.4377));
-vec3 jupiterOrbit=lsOrbitPosition(5.20247252,0.04858416,4332.59,radians(112.5970),radians(1.2978),radians(100.3277),radians(-86.0040));
-vec3 saturnOrbit=lsOrbitPosition(9.54149062,0.05542245,10759.2,radians(284.3117),radians(2.4955),radians(113.5730),radians(-20.5666));
-vec3 uranusOrbit=lsOrbitPosition(19.18792471,0.04685325,30688.5,radians(255.5024),radians(0.7725),radians(73.9779),radians(98.4810));
-vec3 neptuneOrbit=lsOrbitPosition(30.06954478,0.00895658,60182.0,radians(316.7116),radians(1.7701),radians(131.7847),radians(-85.1004));
-vec3 plutoOrbit=lsOrbitPosition(39.482,0.2488,90560.0,radians(53.46),radians(17.14),radians(110.30),radians(113.77));
-// Rotate the ecliptic frame to keep the current Sun direction in the same
-// visible part of this skybox while preserving the relative ephemeris layout.
-float lsSkyFrameRotation=LS_TAU*0.5;
-vec3 mercuryCenter=earthCenter+lsRotateY((mercuryOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 venusCenter=earthCenter+lsRotateY((venusOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 marsCenter=earthCenter+lsRotateY((marsOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 jupCenter=earthCenter+lsRotateY((jupiterOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 satCenter=earthCenter+lsRotateY((saturnOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 uranusCenter=earthCenter+lsRotateY((uranusOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
-vec3 nepCenter=earthCenter+lsRotateY((neptuneOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
+// The Sun is oriented along zenith (+Y) at local noon, rising in East and setting in West.
+vec3 sunCenter=vec3(0.0,40000.0,0.0);
+vec3 sunDir=normalize(sunCenter);
+// Earth is oriented towards the night sky (opposite Sun) with realistic lunar perspective tilt.
+vec3 earthCenter=normalize(vec3(0.12,-0.98,0.16))*103.0;
+
+// 3D Celestial Distribution: planets are distributed across distinct quadrants and declinations
+// rather than collapsing into a single straight line.
+vec3 mercuryCenter=sunCenter*0.90+vec3(9200.0,-5800.0,4400.0);
+vec3 venusCenter=sunCenter*0.72+vec3(-21500.0,-11200.0,12600.0);
+vec3 marsCenter=vec3(26000.0,-18000.0,-32000.0);
+vec3 jupCenter=vec3(82000.0,-68000.0,94000.0);
+vec3 satCenter=vec3(-110000.0,-75000.0,85000.0);
+vec3 uranusCenter=vec3(-180000.0,45000.0,-210000.0);
+vec3 nepCenter=vec3(190000.0,-95000.0,-280000.0);
+vec3 plutoCenter=vec3(-240000.0,-160000.0,-220000.0);
+
 // Keep ringed worlds' poles turned partly away from the current lunar view.
 // This preserves a natural axial tilt while preventing the ring plane from
 // appearing as a foreshortened square aimed straight at the player.
 vec3 tiltSaturn=lsTiltAwayFromView(baseTiltSaturn,satCenter,0.30);
 vec3 tiltUranus=lsTiltAwayFromView(baseTiltUranus,uranusCenter,0.30);
 vec3 tiltNeptune=lsTiltAwayFromView(baseTiltNeptune,nepCenter,0.30);
-vec3 plutoCenter=earthCenter+lsRotateY((plutoOrbit-earthOrbit)*lsAuScale,lsSkyFrameRotation);
 float europaOrbitAngle=LS_TAU*lsSimDays/3.551;
-vec3 europaCenter=jupCenter+vec3(cos(europaOrbitAngle),0.0,sin(europaOrbitAngle))*179.0;
-vec3 sunCenter=earthCenter+lsRotateY(-earthOrbit*lsAuScale,lsSkyFrameRotation);
-vec3 sunDir=normalize(sunCenter);
+vec3 europaCenter=jupCenter+vec3(cos(europaOrbitAngle),sin(europaOrbitAngle)*0.38,sin(europaOrbitAngle)*0.92)*179.0;
 float earthRadius=lsEarthRadius*1.12;
 float mercuryRadius=max(lsEarthRadius*0.383,length(mercuryCenter)*0.0030);
 float venusRadius=max(lsEarthRadius*0.949,length(venusCenter)*0.0030);
@@ -195,4 +188,4 @@ if(lsRingHit(lsSkyRay,nepCenter,nepNormal,neptuneRadius*1.35,neptuneRadius*2.4,n
     col=mix(col,ring.rgb*shadow,ring.a);
 }
 
-fragColor=applyFog(vec4(col,1.0),0.25);
+fragColor=vec4(col,1.0);
